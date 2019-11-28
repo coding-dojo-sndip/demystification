@@ -51,6 +51,5 @@ public class Utilisateur {
 	public void setQi(int qi) {
 		this.qi = qi;
 	}
-	
-	
+
 }
